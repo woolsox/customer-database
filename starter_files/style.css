@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+    font-size: 40px;
+}
+
+.customer_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.customer_profile li {
+    list-style: none;
+}
